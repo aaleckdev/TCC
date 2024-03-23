@@ -1,0 +1,5 @@
+Referência 1 de como criar a biblioteca
+https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website
+
+Sobre a acessibilidade em páginas web
+https://www.hostinger.com.br/tutoriais/acessibilidade-web
